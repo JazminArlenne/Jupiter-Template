@@ -1,6 +1,6 @@
 # Jupiter - Template Jobtify Custom Package
 
-**Jupier** es una plantilla con un diseño responsivo que permitirá a los postulantes encontrar las vacantes de disponibles que más se ajuste a ellos.
+**Jupiter** es una plantilla con un diseño responsivo que permitirá a los postulantes encontrar las vacantes de disponibles que más se ajuste a ellos.
 
 Es una plantilla adaptada para trabajar de manera automática con nuestro sistema Jobtify Custom Package, el **CAREER SERVICES MANAGER GRATUITO de Jobtify.**
 
